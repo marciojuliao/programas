@@ -13,5 +13,6 @@
 	<p>Bom dia!</p>
 	<p style="color:blue">Hello Mundo!</p>
 	<p style="color:yellow">Alterando para testar no git</p>
+	<p>Testando 1 2 3</p>
 </body>
 </html>
